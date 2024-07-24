@@ -1,7 +1,7 @@
 import React from 'react';
-import ContactForm from './ContactForm/ContactForm.module.css';
-import ContactList from './ContactList/ContactList.module.css';
-import Filter from './Filter/Filter.module.css';
+import ContactForm from './ContactForm/ContactForm';
+import ContactList from './ContactList/ContactList';
+import Filter from './Filter/Filter';
 import styles from '../components/App.module.css';
 
 const App = () => {
