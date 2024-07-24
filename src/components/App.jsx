@@ -1,8 +1,8 @@
 import React from 'react';
-import ContactForm from './components/ContactForm/ContactForm';
-import ContactList from './components/ContactList/ContactList';
-import Filter from './components/Filter/Filter';
-import styles from './App.module.css';
+import ContactForm from './ContactForm/ContactForm.module.css';
+import ContactList from './ContactList/ContactList.module.css';
+import Filter from './Filter/Filter.module.css';
+import styles from '../components/App.module.css';
 
 const App = () => {
   return (
